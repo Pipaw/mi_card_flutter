@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
               backgroundImage: AssetImage('assets/images/poor.png'),
             ),
             const Text(
-              'Pipaw De Castro',
+              'Paolo De Castro',
               style: TextStyle(
                   fontFamily: 'Pacifico',
                   fontSize: 40.0,
